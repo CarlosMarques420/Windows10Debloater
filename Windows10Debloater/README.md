@@ -1,3 +1,5 @@
+# ALL CREDIT TO SYCNEX
+
 # Warning
 I do *not* take responsibility for what may happen to your system. This is at your own risk.
 
